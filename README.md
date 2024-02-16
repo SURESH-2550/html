@@ -19,4 +19,70 @@
             <li>
                 <a href="https://en.wikipedia.org/wiki/Tournament">Organisation</a>
                 <ol type="I">
-                   …
+                    <li>Tournament format</li>
+                    <li>Player acquisition,squad composition and salaries</li>
+                    <li>Match rules</li>
+                    <li>Prize money</li>
+                </ol>
+            </li>
+            <li>
+                <a href="https://en.wikipedia.org/wiki/Cricket">Teams</a>
+                <ol type="I">
+                    <li>CUrrent teams</li>
+                    <li>Defunct teams</li>
+                    <li>Timeline</li>
+                </ol>
+            </li>
+            <li>
+                <a href="https://en.wikipedia.org/wiki/Indian_Premier_League">Tounament seasons and results</a>
+                <ol type="I">
+                    <li>Performance in the IPL by title</li>
+                    <li>IPL season results</li>
+                </ol>
+            </li>
+            <li>
+                <a href="https://en.wikipedia.org/wiki/List_of_Everton_F.C._seasons">Team performance</a>
+                <ol type="I">
+                    <li>League stage positions</li>
+                </ol>
+            </li>
+            <li>
+                <a href="https://en.wikipedia.org/wiki/ICC_Awards">Awards</a>
+                <ol type="I">
+                    <li>Orange Cap</li>
+                    <li>Purple Cap</li>
+                    <li>Most Valuable Player</li>
+                    <li>Faimly Award</li>
+                    <li>Emerging Player award</li>
+                </ol>
+            </li>
+            <li>
+                <a href="https://en.wikipedia.org/wiki/Board_of_Control_for_Cricket_in_India">Financials</a>
+                <ol type="I">
+                    <li>Title Sponsorship</li>
+                    <li>Payments to Foreign national boards</li>
+                    <li>Brand value</li>
+                </ol>
+            </li>
+            <li>
+                <a href="https://en.wikipedia.org/wiki/Broadcasting_contracts_in_cricket">Broadcasting</a>
+                <ol type="I">
+                    <li>Sony and WSG(2008-2017)</li>
+                    <li>Star India(2018-2022)</li>
+                    <li>2023-2027</li>
+                </ol>
+            </li>
+            <li>
+                <a href="https://en.wikipedia.org/wiki/Category:Cricket_controversies">Controversy</a>
+                <ol type=" I">
+                        <li>2012 and 2013 IPL spot facing and betting match</li>
+                        <li>Sponsorship</li>
+                </ol>
+            </li>
+            <li>See also</li>
+            <li>References</li>
+            <li>External links</li>           
+        </ol>
+
+    </body>
+</html>
